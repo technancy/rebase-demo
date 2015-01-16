@@ -1,4 +1,1 @@
-A
-D
-C
-D
+My favourite colour is red.
